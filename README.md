@@ -142,7 +142,7 @@ This project supports practical learning in:
 
 **Chandra Bhushan Singh**
 
-Junior Data Engineer | SQL | Python | dbt | Databricks | Snowflake
+Data Engineer | SQL | Python | dbt | Databricks | Snowflake
 
 ---
 
